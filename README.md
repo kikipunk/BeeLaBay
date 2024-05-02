@@ -1,2 +1,4 @@
 # BeeLaBay
-Serveur
+Serveur de BeeLaBay
+
+Wiki: https://github.com/kikipunk/BeeLaBay/wiki
